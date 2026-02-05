@@ -1,18 +1,23 @@
 # Hi, I'm Morena 🧚‍♀️
 
-Frontend Developer focused on JavaScript and React.
+Fullstack MERN developer focused on JavaScript and React.
 
 🛠️ Skills & Knowledge:
 - JavaScript
+- TypeScript
 - HTML & CSS
 - React
+- Node.js
+- MongoDB
+- Express
 - Git & GitHub
 - Linux
 - Cybersecurity fundamentals
 - Ethical Hacking basics
+- And more...
 
 🌱 Currently working on:
-- Frontend projects
+- Pet projects
 - Improving React skills
-- Studying Fullstack development
+- Studying Fullstack development to incorporate new technologies
 - Exploring cybersecurity practices
