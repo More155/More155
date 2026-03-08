@@ -5,11 +5,13 @@ Fullstack MERN developer focused on JavaScript and React.
 🛠️ Skills & Knowledge:
 - JavaScript
 - TypeScript
+- Python
 - HTML & CSS
 - React
 - Node.js
 - MongoDB
 - Express
+- PostgreSQL
 - Git & GitHub
 - Linux
 - Cybersecurity fundamentals
