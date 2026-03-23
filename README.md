@@ -20,6 +20,7 @@ Fullstack MERN developer focused on JavaScript and React.
 
 🌱 Currently working on:
 - Pet projects
-- Improving React skills
-- Studying Fullstack development to incorporate new technologies
-- Exploring cybersecurity practices
+- Incorporating new technologies
+- AI Development
+
+ [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8A2BE2?style=for-the-badge)](https://more155.github.io)
