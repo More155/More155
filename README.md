@@ -1,27 +1,44 @@
 # Hi, I'm Morena 🧚‍♀️
 
-Fullstack MERN developer focused on JavaScript and React.
+Fullstack MERN Developer focused on building modern web applications with React.
 
-🛠️ Skills & Knowledge:
-- JavaScript
-- TypeScript
-- Python
-- HTML & CSS
+## Tech Stack
+
+**Frontend**
 - React
-- Node.js
-- MongoDB
-- Express
-- PostgreSQL
-- Git & GitHub
-- Linux
-- Cybersecurity fundamentals
-- Ethical Hacking basics
-- And more...
+- Tailwind CSS
+- Sass
 
-🌱 Currently working on:
-- Pet projects
-- Incorporating new technologies
-- AI Development
+**Backend**
+- Node.js
+- Express
+- Flask
+
+**Databases**
+- MongoDB (Mongoose)
+- PostgreSQL (SQLAlchemy)
+
+**Auth & Services**
+- Auth0
+- Firebase
+
+**Deployment**
+- Vercel
+- Netlify
+- Render
+
+## Currently
+
+- Expanding knowledge in AI development and machine learning
+- Exploring ways to integrate intelligent features into web applications
+
+## Experience
+
+- Built fullstack applications with authentication and REST APIs
+- Developed backend services for personal projects
+- Built responsive websites using React and Tailwind CSS
+
+## Links
 
  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8A2BE2?style=for-the-badge)](https://more155.github.io)
 
